@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>Update Knowledge Base - Upload PDF</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1>Update Knowledge Base</h1>
+    
+    <!-- Form to upload PDF -->
+    <div class="form">
+        <form action="/admin/update_kb" method="POST" enctype="multipart/form-data">
+            <label for="pdf_file">Upload PDF File:</label>
+            <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+            <input type="submit" value="Upload PDF">
+        </form>
+    </div>
+    
+    <!-- Feedback Message -->
+    {% if status is not none %}
+        <div class="feedback" style="margin-top: 20px; padding: 10px; 
+            {% if status == 1 %} background-color: green; color: white; {% else %} background-color: red; color: white; {% endif %}">
+            <p>{{ msg }}</p>
+        </div>
+    {% endif %}
+
+</div>
+{% endblock %}

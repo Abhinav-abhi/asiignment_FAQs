@@ -1,0 +1,590 @@
+[2025-02-02 22:18:15,558] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:18:15,558] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:18:22,155] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:18:22,580] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:18:22,594] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:18:22,701] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:18:22,701] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:18:22,703] INFO-97- * Restarting with stat
+[2025-02-02 22:18:27,813] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:18:27,814] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:18:31,282] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:18:31,300] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:18:31,306] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:18:31,322] WARNING-97- * Debugger is active!
+[2025-02-02 22:18:31,403] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:19:14,198] INFO-97-127.0.0.1 - - [02/Feb/2025 22:19:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:19:14,803] INFO-97-127.0.0.1 - - [02/Feb/2025 22:19:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:19:14,804] INFO-97-127.0.0.1 - - [02/Feb/2025 22:19:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:19:15,161] INFO-97-127.0.0.1 - - [02/Feb/2025 22:19:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=FKqQEwhoMLRqB3xwFaT7 HTTP/1.1" 200 -
+[2025-02-02 22:19:15,376] INFO-97-127.0.0.1 - - [02/Feb/2025 22:19:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:20:11,540] INFO-97-127.0.0.1 - - [02/Feb/2025 22:20:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:20:11,567] INFO-97-127.0.0.1 - - [02/Feb/2025 22:20:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:20:11,577] INFO-97-127.0.0.1 - - [02/Feb/2025 22:20:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:20:11,662] INFO-97-127.0.0.1 - - [02/Feb/2025 22:20:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=FKqQEwhoMLRqB3xwFaT7 HTTP/1.1[0m" 304 -
+[2025-02-02 22:20:11,694] INFO-97-127.0.0.1 - - [02/Feb/2025 22:20:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:38:24,603] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:38:24,603] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:38:28,055] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:38:28,080] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:38:28,090] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:38:28,103] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:38:28,104] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:38:28,105] INFO-97- * Restarting with stat
+[2025-02-02 22:38:34,368] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:38:34,369] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:38:38,143] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:38:38,169] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:38:38,178] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:38:38,201] WARNING-97- * Debugger is active!
+[2025-02-02 22:38:38,202] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:39:08,516] INFO-97-127.0.0.1 - - [02/Feb/2025 22:39:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:39:08,641] INFO-97-127.0.0.1 - - [02/Feb/2025 22:39:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:39:08,643] INFO-97-127.0.0.1 - - [02/Feb/2025 22:39:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:39:08,715] INFO-97-127.0.0.1 - - [02/Feb/2025 22:39:08] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=dJOc1I2j3Dx92IhJcIHw HTTP/1.1" 200 -
+[2025-02-02 22:39:08,742] INFO-97-127.0.0.1 - - [02/Feb/2025 22:39:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:42:06,863] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:42:09,655] INFO-97- * Restarting with stat
+[2025-02-02 22:42:18,616] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:42:18,616] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:42:23,375] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:42:23,395] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:42:23,401] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:42:23,412] WARNING-97- * Debugger is active!
+[2025-02-02 22:42:23,413] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:43:10,169] INFO-97-127.0.0.1 - - [02/Feb/2025 22:43:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:43:10,235] INFO-97-127.0.0.1 - - [02/Feb/2025 22:43:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:43:10,240] INFO-97-127.0.0.1 - - [02/Feb/2025 22:43:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:43:10,263] INFO-97-127.0.0.1 - - [02/Feb/2025 22:43:10] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Yn0rDKlV0MLCxg2eMLUw HTTP/1.1" 200 -
+[2025-02-02 22:43:10,311] INFO-97-127.0.0.1 - - [02/Feb/2025 22:43:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:43:38,266] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:43:38,266] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:43:41,762] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:43:41,782] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:43:41,790] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:43:41,804] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:43:41,804] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:43:41,805] INFO-97- * Restarting with stat
+[2025-02-02 22:43:47,002] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:43:47,003] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:43:54,595] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:43:54,610] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:43:54,618] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:43:54,662] WARNING-97- * Debugger is active!
+[2025-02-02 22:43:54,663] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:44:25,053] INFO-97-127.0.0.1 - - [02/Feb/2025 22:44:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:44:25,112] INFO-97-127.0.0.1 - - [02/Feb/2025 22:44:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:44:25,114] INFO-97-127.0.0.1 - - [02/Feb/2025 22:44:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:44:26,006] INFO-97-127.0.0.1 - - [02/Feb/2025 22:44:26] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=a1PmaCuWpEQahsGGGJOh HTTP/1.1" 200 -
+[2025-02-02 22:44:26,066] INFO-97-127.0.0.1 - - [02/Feb/2025 22:44:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:46:53,399] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:46:53,401] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:46:57,670] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:46:57,697] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:46:57,707] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:46:57,724] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:46:57,725] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:46:57,726] INFO-97- * Restarting with stat
+[2025-02-02 22:47:03,689] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:47:03,690] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:47:16,235] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:47:16,274] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:47:16,284] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:47:16,299] WARNING-97- * Debugger is active!
+[2025-02-02 22:47:16,301] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:47:46,782] INFO-97-127.0.0.1 - - [02/Feb/2025 22:47:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:47:46,846] INFO-97-127.0.0.1 - - [02/Feb/2025 22:47:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:47:46,850] INFO-97-127.0.0.1 - - [02/Feb/2025 22:47:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:47:47,081] INFO-97-127.0.0.1 - - [02/Feb/2025 22:47:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=uTMvl3mkwYN7nP7VyeU7 HTTP/1.1" 200 -
+[2025-02-02 22:50:00,506] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:50:02,326] INFO-97- * Restarting with stat
+[2025-02-02 22:50:15,145] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:50:15,146] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:50:18,795] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:50:18,812] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:50:18,817] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:50:18,826] WARNING-97- * Debugger is active!
+[2025-02-02 22:50:18,827] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:50:57,390] INFO-97-127.0.0.1 - - [02/Feb/2025 22:50:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:50:57,436] INFO-97-127.0.0.1 - - [02/Feb/2025 22:50:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:50:57,502] INFO-97-127.0.0.1 - - [02/Feb/2025 22:50:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:50:57,547] INFO-97-127.0.0.1 - - [02/Feb/2025 22:50:57] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=41LtJQfvzf8Yn5Hb80lL HTTP/1.1" 200 -
+[2025-02-02 22:50:57,570] INFO-97-127.0.0.1 - - [02/Feb/2025 22:50:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:51:47,877] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:51:49,292] INFO-97- * Restarting with stat
+[2025-02-02 22:51:54,851] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:51:54,851] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:51:58,221] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:51:58,243] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:51:58,247] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:51:58,265] WARNING-97- * Debugger is active!
+[2025-02-02 22:51:58,265] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:52:43,827] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:52:45,042] INFO-97- * Restarting with stat
+[2025-02-02 22:52:51,726] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679fa9e63852aacf27518e74, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:53:14,735] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679fa9fd5ca6fe426c571e0c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:53:18,627] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:53:18,627] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:53:22,352] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:53:22,370] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:53:22,384] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:53:22,396] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:53:22,397] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:53:22,404] INFO-97- * Restarting with stat
+[2025-02-02 22:53:29,250] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679faa0bc000286a3896d1f4, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:53:32,839] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:53:32,839] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:53:36,421] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:53:36,444] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:53:36,449] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:53:36,618] WARNING-97- * Debugger is active!
+[2025-02-02 22:53:36,620] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:53:42,001] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:53:42,108] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:53:42,109] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:53:42,334] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=uYfKT4GwB7Gf48POS8PZ HTTP/1.1" 200 -
+[2025-02-02 22:53:51,419] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:53:51,470] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:53:51,479] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:53:51,527] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=uYfKT4GwB7Gf48POS8PZ HTTP/1.1[0m" 304 -
+[2025-02-02 22:53:51,580] INFO-97-127.0.0.1 - - [02/Feb/2025 22:53:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:55:54,018] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:55:55,794] INFO-97- * Restarting with stat
+[2025-02-02 22:56:03,805] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679faaa61aa605446d6c8537, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:56:09,067] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:56:09,068] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:56:12,635] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:56:12,668] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:56:12,681] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:56:12,697] WARNING-97- * Debugger is active!
+[2025-02-02 22:56:12,699] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:56:17,819] INFO-97-127.0.0.1 - - [02/Feb/2025 22:56:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:56:17,880] INFO-97-127.0.0.1 - - [02/Feb/2025 22:56:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:56:17,886] INFO-97-127.0.0.1 - - [02/Feb/2025 22:56:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:56:17,949] INFO-97-127.0.0.1 - - [02/Feb/2025 22:56:17] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=XwEAFTbWcgl9Bb6JKG38 HTTP/1.1" 200 -
+[2025-02-02 22:56:17,973] INFO-97-127.0.0.1 - - [02/Feb/2025 22:56:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 22:56:48,758] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679faad34250d4ca0b44d987, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:56:52,028] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:56:52,029] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:56:55,275] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:56:55,295] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:56:55,301] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:56:55,326] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 22:56:55,327] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 22:56:55,329] INFO-97- * Restarting with stat
+[2025-02-02 22:57:01,843] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679faae0964c576eec0cfc13, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 22:57:06,019] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 22:57:06,019] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 22:57:09,798] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 22:57:09,818] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 22:57:09,823] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 22:57:09,857] WARNING-97- * Debugger is active!
+[2025-02-02 22:57:09,858] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 22:57:14,954] INFO-97-127.0.0.1 - - [02/Feb/2025 22:57:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 22:57:15,002] INFO-97-127.0.0.1 - - [02/Feb/2025 22:57:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 22:57:15,005] INFO-97-127.0.0.1 - - [02/Feb/2025 22:57:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 22:57:15,068] INFO-97-127.0.0.1 - - [02/Feb/2025 22:57:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=iI3R2Wjy71YwDpQeBFCP HTTP/1.1" 200 -
+[2025-02-02 22:57:39,826] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 22:57:40,969] INFO-97- * Restarting with stat
+[2025-02-02 22:57:47,857] ERROR-48-Connection Error: SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 679fab0e665afdf7d22e4c64, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('demo-shard-00-00.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-00.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-01.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-01.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('demo-shard-00-02.5z314.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: demo-shard-00-02.5z314.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[2025-02-02 23:01:34,714] INFO-46-MongoDB Connected Successfully!
+[2025-02-02 23:01:38,270] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:01:38,270] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:01:41,506] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:01:41,528] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:01:41,535] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:01:41,557] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:01:41,557] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:01:41,562] INFO-97- * Restarting with stat
+[2025-02-02 23:01:43,113] INFO-46-MongoDB Connected Successfully!
+[2025-02-02 23:01:47,366] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:01:47,367] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:01:50,989] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:01:51,027] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:01:51,038] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:01:51,056] WARNING-97- * Debugger is active!
+[2025-02-02 23:01:51,057] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:01:54,185] INFO-97-127.0.0.1 - - [02/Feb/2025 23:01:54] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:01:54,285] INFO-97-127.0.0.1 - - [02/Feb/2025 23:01:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:01:54,375] INFO-97-127.0.0.1 - - [02/Feb/2025 23:01:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-02-02 23:04:18,682] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:04:18,682] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:04:22,361] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:04:22,556] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:04:22,560] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:04:22,571] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:04:22,571] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:04:22,572] INFO-97- * Restarting with stat
+[2025-02-02 23:04:28,554] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:04:28,554] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:04:31,864] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:04:31,885] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:04:31,902] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:04:31,911] WARNING-97- * Debugger is active!
+[2025-02-02 23:04:31,912] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:05:02,123] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 23:05:02,178] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:02,180] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:02,220] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:02] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lo0q9UjvvENuySPjSkwu HTTP/1.1" 200 -
+[2025-02-02 23:05:02,355] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:39,744] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 23:05:39,793] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:39,806] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:39,826] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=lo0q9UjvvENuySPjSkwu HTTP/1.1[0m" 304 -
+[2025-02-02 23:05:39,875] INFO-97-127.0.0.1 - - [02/Feb/2025 23:05:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 23:06:33,599] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:06:33,599] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:06:36,706] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:06:36,729] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:06:36,733] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:06:36,748] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:06:36,749] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:06:36,750] INFO-97- * Restarting with stat
+[2025-02-02 23:06:41,637] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:06:41,637] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:06:45,221] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:06:45,238] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:06:45,242] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:06:45,256] WARNING-97- * Debugger is active!
+[2025-02-02 23:06:45,257] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:07:15,596] INFO-97-127.0.0.1 - - [02/Feb/2025 23:07:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-02-02 23:07:15,651] INFO-97-127.0.0.1 - - [02/Feb/2025 23:07:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:07:15,654] INFO-97-127.0.0.1 - - [02/Feb/2025 23:07:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-02 23:07:15,753] INFO-97-127.0.0.1 - - [02/Feb/2025 23:07:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=pkxxwA1PKixE5egyzbyY HTTP/1.1" 200 -
+[2025-02-02 23:07:15,785] INFO-97-127.0.0.1 - - [02/Feb/2025 23:07:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-02-02 23:08:32,079] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 23:08:33,613] INFO-97- * Restarting with stat
+[2025-02-02 23:08:42,737] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:08:42,737] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:08:46,712] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:08:46,733] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:08:46,741] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:08:46,756] WARNING-97- * Debugger is active!
+[2025-02-02 23:08:46,801] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:08:46,983] INFO-97-127.0.0.1 - - [02/Feb/2025 23:08:46] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:09:11,934] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:09:11,934] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:09:15,334] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:09:15,353] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:09:15,358] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:09:15,376] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:09:15,377] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:09:15,378] INFO-97- * Restarting with stat
+[2025-02-02 23:09:21,060] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:09:21,061] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:09:24,634] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:09:24,651] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:09:24,667] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:09:24,686] WARNING-97- * Debugger is active!
+[2025-02-02 23:09:24,687] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:09:24,868] INFO-97-127.0.0.1 - - [02/Feb/2025 23:09:24] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:09:24,928] INFO-97-127.0.0.1 - - [02/Feb/2025 23:09:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:09:36,757] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n1. Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n2. The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 9, 36, 757626)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+1. Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+2. The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:09:36,793] INFO-97-127.0.0.1 - - [02/Feb/2025 23:09:36] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:09:36,809] INFO-97-127.0.0.1 - - [02/Feb/2025 23:09:36] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:09:36,841] INFO-97-127.0.0.1 - - [02/Feb/2025 23:09:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:12:42,566] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:12:42,566] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:12:45,955] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:12:45,972] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:12:45,985] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:12:46,005] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:12:46,010] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:12:46,013] INFO-97- * Restarting with stat
+[2025-02-02 23:12:51,199] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:12:51,199] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:12:54,637] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:12:54,747] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:12:54,765] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:12:54,791] WARNING-97- * Debugger is active!
+[2025-02-02 23:12:54,792] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:12:54,959] INFO-97-127.0.0.1 - - [02/Feb/2025 23:12:54] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:12:54,986] INFO-97-127.0.0.1 - - [02/Feb/2025 23:12:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:13:28,401] INFO-97-127.0.0.1 - - [02/Feb/2025 23:13:28] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:13:28,423] INFO-97-127.0.0.1 - - [02/Feb/2025 23:13:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:17:00,233] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 23:17:01,668] INFO-97- * Restarting with stat
+[2025-02-02 23:17:08,272] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:17:08,272] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:17:11,919] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:17:11,937] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:17:11,947] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:17:11,966] WARNING-97- * Debugger is active!
+[2025-02-02 23:17:11,967] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:17:12,140] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:12] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:17:12,951] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:17:29,796] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': '', 'date_created': datetime.datetime(2025, 2, 2, 23, 17, 29, 796237)} and response: 
+[2025-02-02 23:17:29,818] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:29] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:17:29,831] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:29] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:17:29,852] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:17:39,889] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': '', 'date_created': datetime.datetime(2025, 2, 2, 23, 17, 39, 889549)} and response: 
+[2025-02-02 23:17:39,909] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:39] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:17:39,930] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:39] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:17:39,949] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:17:50,482] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 17, 50, 482137)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:17:50,495] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:50] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:17:50,508] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:50] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:17:50,532] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:17:56,064] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:56] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:17:56,084] INFO-97-127.0.0.1 - - [02/Feb/2025 23:17:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:18:32,080] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': '  To file a claim on the Member Portal, the following steps are required:\n1. Visit the EPFO website at www.epfindia.gov.in.\n2. Click on the "Online Transfer Claim Portal (OTCP)" link.\n3. Enter your UAN (Universal Account Number) and password to log in.\n4. Fill in the required details for claim submission.\n5. Verify the details and submit the claim.\n6. Wait for the attestation by the employer.\n7. If the member details pertaining to previous employment are completely available in EPFO database, the member can submit the claim through either of the employers and the process for settlement would involve similar steps after the claim has been attested by the employer. If the member details pertaining to previous employment are not completely available in EPFO database, the member can submit the claim through his present employer and the process for settlement would take relatively less time as all his member details with the previous employment would get verified along with the attestation of the claim by the present employer.', 'date_created': datetime.datetime(2025, 2, 2, 23, 18, 32, 80626)} and response:   To file a claim on the Member Portal, the following steps are required:
+1. Visit the EPFO website at www.epfindia.gov.in.
+2. Click on the "Online Transfer Claim Portal (OTCP)" link.
+3. Enter your UAN (Universal Account Number) and password to log in.
+4. Fill in the required details for claim submission.
+5. Verify the details and submit the claim.
+6. Wait for the attestation by the employer.
+7. If the member details pertaining to previous employment are completely available in EPFO database, the member can submit the claim through either of the employers and the process for settlement would involve similar steps after the claim has been attested by the employer. If the member details pertaining to previous employment are not completely available in EPFO database, the member can submit the claim through his present employer and the process for settlement would take relatively less time as all his member details with the previous employment would get verified along with the attestation of the claim by the present employer.
+[2025-02-02 23:18:32,095] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:32] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:18:32,111] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:32] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:18:32,139] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:18:39,809] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 18, 39, 808950)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:18:39,830] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:39] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:18:39,844] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:39] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:18:39,866] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:18:51,723] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' "Q:', 'date_created': datetime.datetime(2025, 2, 2, 23, 18, 51, 723223)} and response:  "Q:
+[2025-02-02 23:18:51,737] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:51] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:18:51,753] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:51] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:18:51,772] INFO-97-127.0.0.1 - - [02/Feb/2025 23:18:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:20:06,587] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 20, 6, 587267)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:20:06,617] INFO-97-127.0.0.1 - - [02/Feb/2025 23:20:06] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:20:06,638] INFO-97-127.0.0.1 - - [02/Feb/2025 23:20:06] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:20:06,662] INFO-97-127.0.0.1 - - [02/Feb/2025 23:20:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:30,525] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': '  "View the status of the Transfer Claims"', 'date_created': datetime.datetime(2025, 2, 2, 23, 21, 30, 525370)} and response:   "View the status of the Transfer Claims"
+[2025-02-02 23:21:30,541] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:30] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:30,560] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:30] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:30,587] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:38,650] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:38] "[32mGET /delete/679fb0a28bab02ae9d59c494 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:38,670] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:38] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:38,695] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:39,331] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:39] "[32mGET /delete/679fb04e8bab02ae9d59c493 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:39,352] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:39] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:39,374] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:40,024] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "[32mGET /delete/679fb0038bab02ae9d59c492 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:40,046] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:40,070] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:40,541] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "[32mGET /delete/679faff78bab02ae9d59c491 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:40,560] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:40,583] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:41,712] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:41] "[32mGET /delete/679faff08bab02ae9d59c490 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:41,727] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:41] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:41,751] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:43,041] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "[32mGET /delete/679fafc68bab02ae9d59c48f HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:43,059] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:43,098] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:43,793] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "[32mGET /delete/679fafbb8bab02ae9d59c48e HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:43,808] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:43,831] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:44,472] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:44] "[32mGET /delete/679fafb18bab02ae9d59c48d HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:44,487] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:44] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:44,511] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:45,110] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:45] "[32mGET /delete/679fadd8bce33d7eab0bfd79 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:45,129] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:45] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:45,159] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:46,189] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:46] "[32mGET /delete/679d3208cdcce3e5d07d03bf HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:46,207] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:46] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:46,232] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:47,224] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:47] "[32mGET /delete/679d309b64ef63414c709063 HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:47,237] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:47] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:47,260] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:21:52,692] INFO-153-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 21, 52, 692517)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:21:52,705] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:52] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:21:52,718] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:52] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:21:52,737] INFO-97-127.0.0.1 - - [02/Feb/2025 23:21:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:34:37,831] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:34:37,831] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:34:41,747] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:34:41,777] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:34:41,781] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:34:41,803] INFO-97-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2025-02-02 23:34:41,804] INFO-97-[33mPress CTRL+C to quit[0m
+[2025-02-02 23:34:41,806] INFO-97- * Restarting with stat
+[2025-02-02 23:34:47,386] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:34:47,386] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:34:51,251] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:34:51,270] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:34:51,275] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:34:51,298] WARNING-97- * Debugger is active!
+[2025-02-02 23:34:51,298] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:34:51,605] INFO-97-127.0.0.1 - - [02/Feb/2025 23:34:51] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:34:51,733] INFO-97-127.0.0.1 - - [02/Feb/2025 23:34:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:34:58,465] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': '', 'date_created': datetime.datetime(2025, 2, 2, 23, 34, 58, 464968)} and response: 
+[2025-02-02 23:34:58,486] INFO-97-127.0.0.1 - - [02/Feb/2025 23:34:58] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:34:58,513] INFO-97-127.0.0.1 - - [02/Feb/2025 23:34:58] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:34:58,549] INFO-97-127.0.0.1 - - [02/Feb/2025 23:34:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:35:05,844] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': '', 'date_created': datetime.datetime(2025, 2, 2, 23, 35, 5, 844625)} and response: 
+[2025-02-02 23:35:05,857] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:05] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:35:05,878] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:05] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:35:05,911] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:35:17,926] INFO-153-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': " To submit a claim on the Member Portal, you first need to be registered on it. Once registered, follow these steps:\n\n1. Log in to the Member Portal using your credentials.\n2. Navigate to the 'Online Transfer Claim Portal (OTCP)' section.\n3. Click on 'File Transfer Claim'.\n4. Fill in the required details, ensuring that the date of birth matches the one in the EPFO database.\n5. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.\n6. Review the details and submit the claim.\n7. If the claim is successful, you will receive a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.", 'date_created': datetime.datetime(2025, 2, 2, 23, 35, 17, 926750)} and response:  To submit a claim on the Member Portal, you first need to be registered on it. Once registered, follow these steps:
+
+1. Log in to the Member Portal using your credentials.
+2. Navigate to the 'Online Transfer Claim Portal (OTCP)' section.
+3. Click on 'File Transfer Claim'.
+4. Fill in the required details, ensuring that the date of birth matches the one in the EPFO database.
+5. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.
+6. Review the details and submit the claim.
+7. If the claim is successful, you will receive a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.
+[2025-02-02 23:35:17,940] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:17] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:35:17,963] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:17] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:35:17,998] INFO-97-127.0.0.1 - - [02/Feb/2025 23:35:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:36:52,458] INFO-97- * Detected change in '/home/abhinav7947/flask_assginment/app.py', reloading
+[2025-02-02 23:36:53,931] INFO-97- * Restarting with stat
+[2025-02-02 23:37:02,130] INFO-210-Use pytorch device_name: cpu
+[2025-02-02 23:37:02,131] INFO-218-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-02-02 23:37:09,712] INFO-113-Loading faiss with AVX512 support.
+[2025-02-02 23:37:09,733] INFO-115-Successfully loaded faiss with AVX512 support.
+[2025-02-02 23:37:09,745] INFO-173-Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-02-02 23:37:09,762] WARNING-97- * Debugger is active!
+[2025-02-02 23:37:09,763] INFO-97- * Debugger PIN: 192-035-049
+[2025-02-02 23:37:10,491] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:10] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:37:12,335] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:37:43,314] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': 'Sorry, I could not find a response to your query. Please try again.', 'date_created': datetime.datetime(2025, 2, 2, 23, 37, 43, 313867)} and response: Sorry, I could not find a response to your query. Please try again.
+[2025-02-02 23:37:43,336] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:43] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:37:43,355] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:43] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:37:43,417] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:37:56,363] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': 'Sorry, I could not find a response to your query. Please try again.', 'date_created': datetime.datetime(2025, 2, 2, 23, 37, 56, 363326)} and response: Sorry, I could not find a response to your query. Please try again.
+[2025-02-02 23:37:56,377] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:56] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:37:56,395] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:56] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:37:56,417] INFO-97-127.0.0.1 - - [02/Feb/2025 23:37:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:38:01,650] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': " To submit a claim on the Member Portal, you first need to be registered on it. Once registered, follow these steps:\n\n1. Log in to the Member Portal using your credentials.\n2. Navigate to the 'Online Transfer Claim Portal (OTCP)' section.\n3. Click on 'File Transfer Claim'.\n4. Fill in the required details, ensuring that the date of birth matches the one in the EPFO database.\n5. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.\n6. Review the details and submit the claim.\n7. If the claim is successful, you will receive a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.", 'date_created': datetime.datetime(2025, 2, 2, 23, 38, 1, 650448)} and response:  To submit a claim on the Member Portal, you first need to be registered on it. Once registered, follow these steps:
+
+1. Log in to the Member Portal using your credentials.
+2. Navigate to the 'Online Transfer Claim Portal (OTCP)' section.
+3. Click on 'File Transfer Claim'.
+4. Fill in the required details, ensuring that the date of birth matches the one in the EPFO database.
+5. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.
+6. Review the details and submit the claim.
+7. If the claim is successful, you will receive a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.
+[2025-02-02 23:38:01,665] INFO-97-127.0.0.1 - - [02/Feb/2025 23:38:01] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:38:01,680] INFO-97-127.0.0.1 - - [02/Feb/2025 23:38:01] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:38:01,761] INFO-97-127.0.0.1 - - [02/Feb/2025 23:38:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:41:33,769] INFO-155-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 41, 33, 769146)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:41:33,791] INFO-97-127.0.0.1 - - [02/Feb/2025 23:41:33] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:41:33,806] INFO-97-127.0.0.1 - - [02/Feb/2025 23:41:33] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:41:33,880] INFO-97-127.0.0.1 - - [02/Feb/2025 23:41:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:46:40,381] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' Use the Member Portal of EPFO and OTCP Portal of EPFOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of', 'date_created': datetime.datetime(2025, 2, 2, 23, 46, 40, 381044)} and response:  Use the Member Portal of EPFO and OTCP Portal of EPFOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of
+[2025-02-02 23:46:40,407] INFO-97-127.0.0.1 - - [02/Feb/2025 23:46:40] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:46:40,427] INFO-97-127.0.0.1 - - [02/Feb/2025 23:46:40] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:46:40,457] INFO-97-127.0.0.1 - - [02/Feb/2025 23:46:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:48:25,614] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' Use the Member Portal of EPFO and OTCP Portal of EPFOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of', 'date_created': datetime.datetime(2025, 2, 2, 23, 48, 25, 614178)} and response:  Use the Member Portal of EPFO and OTCP Portal of EPFOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of RCP Portal of EPOCP Portal of EPOCP Portal of EPOCP Portal of
+[2025-02-02 23:48:25,629] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:25] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:48:25,652] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:25] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:48:25,692] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:48:45,055] INFO-155-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 48, 45, 55619)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:48:45,077] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:45] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:48:45,096] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:45] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:48:45,128] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:48:51,698] INFO-155-New task added: {'content': 'What are the pre-requisite conditions to file the Transfer Claim online', 'response': ' The pre-requisite conditions to file the Transfer Claim online are:\n(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.\n(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.', 'date_created': datetime.datetime(2025, 2, 2, 23, 48, 51, 698256)} and response:  The pre-requisite conditions to file the Transfer Claim online are:
+(a) Both previous and present member IDs (P.F. Account No.) should be available in EPFO database.
+(b) The employer should have registered the digital signature certificate of his authorized signatories with EPFO.
+[2025-02-02 23:48:51,714] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:51] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:48:51,739] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:51] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:48:51,772] INFO-97-127.0.0.1 - - [02/Feb/2025 23:48:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:49:00,798] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' The pre-requisite conditions to file a transfer claim online, which the employer is required to be registered with the Online Transfer Claim Portal (OTCP) portal, and the digital signatures are required to be registered with the previous member.', 'date_created': datetime.datetime(2025, 2, 2, 23, 49, 0, 798299)} and response:  The pre-requisite conditions to file a transfer claim online, which the employer is required to be registered with the Online Transfer Claim Portal (OTCP) portal, and the digital signatures are required to be registered with the previous member.
+[2025-02-02 23:49:00,814] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:00] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:49:00,870] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:00] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:49:00,907] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:49:13,042] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' The pre-requisite conditions to file a transfer claim online, which the employer is required to be registered with the Online Transfer Claim Portal (OTCP) portal, and the digital signatures are required to be registered with the previous member.', 'date_created': datetime.datetime(2025, 2, 2, 23, 49, 13, 42205)} and response:  The pre-requisite conditions to file a transfer claim online, which the employer is required to be registered with the Online Transfer Claim Portal (OTCP) portal, and the digital signatures are required to be registered with the previous member.
+[2025-02-02 23:49:13,058] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:13] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:49:13,079] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:13] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:49:13,105] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:49:18,306] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': 'Sorry, I could not find a response to your query. Please try again.', 'date_created': datetime.datetime(2025, 2, 2, 23, 49, 18, 306298)} and response: Sorry, I could not find a response to your query. Please try again.
+[2025-02-02 23:49:18,319] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:18] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:49:18,337] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:18] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:49:18,368] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:49:30,285] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': '  To file a claim on the Member Portal, the following steps are required:\n1. Visit the EPFO website at www.epfindia.gov.in.\n2. Click on the "Online Transfer Claim Portal (OTCP)" link.\n3. Enter your UAN (Universal Account Number) and password to log in.\n4. Fill in the required details for claim submission.\n5. Verify the details and submit the claim.\n6. Wait for the attestation by the employer.\n7. If the member details pertaining to previous employment are completely available in EPFO database, the member can submit the claim through either of the employers and the process for settlement would involve similar steps after the claim has been attested by the employer. If the member details pertaining to previous employment are not completely available in EPFO database, the member can submit the claim through his present employer and the process for settlement would take relatively less time as all his member details with the previous employment would get verified along with the attestation of the claim by the present employer.', 'date_created': datetime.datetime(2025, 2, 2, 23, 49, 30, 284917)} and response:   To file a claim on the Member Portal, the following steps are required:
+1. Visit the EPFO website at www.epfindia.gov.in.
+2. Click on the "Online Transfer Claim Portal (OTCP)" link.
+3. Enter your UAN (Universal Account Number) and password to log in.
+4. Fill in the required details for claim submission.
+5. Verify the details and submit the claim.
+6. Wait for the attestation by the employer.
+7. If the member details pertaining to previous employment are completely available in EPFO database, the member can submit the claim through either of the employers and the process for settlement would involve similar steps after the claim has been attested by the employer. If the member details pertaining to previous employment are not completely available in EPFO database, the member can submit the claim through his present employer and the process for settlement would take relatively less time as all his member details with the previous employment would get verified along with the attestation of the claim by the present employer.
+[2025-02-02 23:49:30,304] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:30] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:49:30,335] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:30] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:49:30,371] INFO-97-127.0.0.1 - - [02/Feb/2025 23:49:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:54:38,170] INFO-155-New task added: {'content': 'What would happen if the member fills up date of birth which is different from that available in EPFO database? ', 'response': ' \nThe member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.', 'date_created': datetime.datetime(2025, 2, 2, 23, 54, 38, 170448)} and response:  
+The member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.
+[2025-02-02 23:54:38,193] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:38] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:54:38,241] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:38] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:54:38,313] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:54:55,322] INFO-155-New task added: {'content': 'What would happen if the member fills up date of birth which is different from that available in EPFO database? ', 'response': ' The member IDnot available to the member ID is available to the member ID not available to the member ID', 'date_created': datetime.datetime(2025, 2, 2, 23, 54, 55, 322270)} and response:  The member IDnot available to the member ID is available to the member ID not available to the member ID
+[2025-02-02 23:54:55,333] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:55] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:54:55,347] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:55] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:54:55,372] INFO-97-127.0.0.1 - - [02/Feb/2025 23:54:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:55:15,537] INFO-155-New task added: {'content': '- Whether the member can file online claim if only his previous employer has registered digital signatures on the Online Transfer Claim Portal (OTCP) portal of EPFO?', 'response': ' No, the member cannot file an online transfer claim if only the previous employer has registered digital signatures on the Online Transfer Claim Portal (OTCP) portal of EPFO. The member can only file an online claim if either the present employer or both employers have registered digital signatures on the portal.', 'date_created': datetime.datetime(2025, 2, 2, 23, 55, 15, 537042)} and response:  No, the member cannot file an online transfer claim if only the previous employer has registered digital signatures on the Online Transfer Claim Portal (OTCP) portal of EPFO. The member can only file an online claim if either the present employer or both employers have registered digital signatures on the portal.
+[2025-02-02 23:55:15,549] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:15] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:55:15,575] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:15] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:55:15,632] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:55:37,761] INFO-155-New task added: {'content': 'Which employer – previous or present – should the member approach after online submission of the claim with the duly signed printout of the claim?', 'response': ' The member should approach the employer opted for attestation while filing the online submission of the claim with the duly signed printout of the claim form.', 'date_created': datetime.datetime(2025, 2, 2, 23, 55, 37, 761672)} and response:  The member should approach the employer opted for attestation while filing the online submission of the claim with the duly signed printout of the claim form.
+[2025-02-02 23:55:37,773] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:37] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:55:37,789] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:37] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:55:37,819] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:55:47,679] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': ' \nThe member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.', 'date_created': datetime.datetime(2025, 2, 2, 23, 55, 47, 678998)} and response:  
+The member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.
+[2025-02-02 23:55:47,691] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:47] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:55:47,713] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:47] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:55:47,756] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:55:56,564] INFO-155-New task added: {'content': 'What would happen if the member fills up date of birth which is different from that available in EPFO database? ', 'response': ' \nThe member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.', 'date_created': datetime.datetime(2025, 2, 2, 23, 55, 56, 564673)} and response:  
+The member is required to approach the employer opted for attestation while filing online submission of the claim with the duly signed printout of the claim form.
+[2025-02-02 23:55:56,576] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:56] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:55:56,594] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:56] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:55:56,643] INFO-97-127.0.0.1 - - [02/Feb/2025 23:55:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:56:20,629] INFO-155-New task added: {'content': 'What are the probable reasons for rejection of an online claim by the employer?', 'response': ' The probable reasons for the rejection of an online transfer claim by the employer can be of the following two types:\n(i) In case of the claim submitted for attestation by the previous employer, the member might not have approached the previous employer with the duly signed printout of the claim form within the stipulated time period of 15 days, leading to the rejection of the claim.\n(ii) In case of the claim submitted for attestation by the present employer, the member might not have approached the present employer with the duly signed printout of the claim form within the stipulated time period of 15 days, leading to the rejection of the claim. Additionally, the claim might be rejected if the member has not provided the correct details of the authorized signatories of the employer in the claim form.', 'date_created': datetime.datetime(2025, 2, 2, 23, 56, 20, 629467)} and response:  The probable reasons for the rejection of an online transfer claim by the employer can be of the following two types:
+(i) In case of the claim submitted for attestation by the previous employer, the member might not have approached the previous employer with the duly signed printout of the claim form within the stipulated time period of 15 days, leading to the rejection of the claim.
+(ii) In case of the claim submitted for attestation by the present employer, the member might not have approached the present employer with the duly signed printout of the claim form within the stipulated time period of 15 days, leading to the rejection of the claim. Additionally, the claim might be rejected if the member has not provided the correct details of the authorized signatories of the employer in the claim form.
+[2025-02-02 23:56:20,651] INFO-97-127.0.0.1 - - [02/Feb/2025 23:56:20] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:56:20,683] INFO-97-127.0.0.1 - - [02/Feb/2025 23:56:20] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:56:20,743] INFO-97-127.0.0.1 - - [02/Feb/2025 23:56:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:57:11,689] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:11] "[32mGET /delete/679fb8ab5f0938382c014eb0 HTTP/1.1[0m" 302 -
+[2025-02-02 23:57:11,712] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:11] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:57:11,782] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:57:13,425] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:13] "[32mGET /delete/679fb8a15f0938382c014eaf HTTP/1.1[0m" 302 -
+[2025-02-02 23:57:13,441] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:13] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:57:13,532] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:57:45,839] INFO-195-File MembersFAQ.pdf successfully uploaded!
+[2025-02-02 23:57:45,841] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:45] "POST /admin/update_kb HTTP/1.1" 200 -
+[2025-02-02 23:57:50,335] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:50] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:57:50,365] INFO-97-127.0.0.1 - - [02/Feb/2025 23:57:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:58:04,533] INFO-155-New task added: {'content': 'Describe the basic steps for claim on Member Portal', 'response': " The basic steps for claim on Member Portal are as follows:\n\n1. Log in to the Member Portal using the registered credentials.\n2. Navigate to the 'Transfer Claim' section and select 'Online Transfer Claim'.\n3. Fill in the required details for the transfer claim, ensuring that the date of birth matches with the one in the EPFO database.\n4. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.\n5. Review the details and submit the claim.\n6. If the claim is successful, you will get a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.", 'date_created': datetime.datetime(2025, 2, 2, 23, 58, 4, 533651)} and response:  The basic steps for claim on Member Portal are as follows:
+
+1. Log in to the Member Portal using the registered credentials.
+2. Navigate to the 'Transfer Claim' section and select 'Online Transfer Claim'.
+3. Fill in the required details for the transfer claim, ensuring that the date of birth matches with the one in the EPFO database.
+4. Choose the employer (previous or present) to attest the claim, based on the conditions mentioned in the FAQs.
+5. Review the details and submit the claim.
+6. If the claim is successful, you will get a confirmation message. If not, you can check the status of your claim in the 'Track Claim Status' section.
+[2025-02-02 23:58:04,553] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:04] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:58:04,571] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:04] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:58:04,600] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2025-02-02 23:58:33,107] INFO-155-New task added: {'content': 'What would happen if the member fills up date of birth which is different from that available in EPFO database? ', 'response': ' The date of the claim would be the date when the member submits the claim online. If the employer needs to submit the claim, the date of the claim would be the date when the employer submits the claim.', 'date_created': datetime.datetime(2025, 2, 2, 23, 58, 33, 106960)} and response:  The date of the claim would be the date when the member submits the claim online. If the employer needs to submit the claim, the date of the claim would be the date when the employer submits the claim.
+[2025-02-02 23:58:33,118] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:33] "[32mPOST / HTTP/1.1[0m" 302 -
+[2025-02-02 23:58:33,134] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:33] "GET / HTTP/1.1" 200 -
+[2025-02-02 23:58:33,161] INFO-97-127.0.0.1 - - [02/Feb/2025 23:58:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -

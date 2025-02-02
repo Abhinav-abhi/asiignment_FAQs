@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>Task Master</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+
+    
+    <!-- Form to upload PDF -->
+    <div class="form">
+        <form action="/admin/update_kb" method="POST" enctype="multipart/form-data">
+            <label for="pdf_file">Upload PDF File:</label>
+            <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+            <input type="submit" value="Upload PDF">
+        </form>
+    </div>
+
+    <h2>Ask your question</h2>
+    
+    
+    <div class="form">
+        <form action="/" method="POST">
+            <input type="text" name="content" id="content" required>
+            <input type="submit" value="submit">
+        </form>
+    </div>
+
+
+    <table border="1">
+        <tr>
+            <th>FAQ</th>
+            <th>response</th>
+            <th>Added</th>
+            <th>Actions</th>
+        </tr>
+        {% for task in tasks %}
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{task.response}}</td>
+                <td>{{ task.date_created.strftime('%Y-%m-%d') }}</td> <!-- Fixed date format -->
+                <td>
+                    <a href="/delete/{{ task._id }}">Delete</a>
+                    <br>
+                    <a href="/update/{{ task._id }}">Update</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}
